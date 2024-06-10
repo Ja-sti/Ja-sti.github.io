@@ -80,28 +80,12 @@ experiences:
         company: Michigan Maritime Museum, South Haven Michigan
         details: |
           During my time at the museum, I was an ordinary crew member who got promoted to deck hand two and later deck hand one. In all of these roles, safety was a priority, however as deckhand two, I was given additional responsibility in the event of emeregency as well as being in charge of the watch. As Deck hand one, my role in emergencies was changed to different areas, and I was in charge of making sure all of the crew was following the captain's commands both in and out of emergency situations. In these roles I learned a great deal of leadership skills as well as teamwork as I worked with a crew that had to be well synchronized in order to complete tasks.
-      - role: Senior Software Engineer
-        time: 2014 - 2015
-        company: Google, London
-        details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          Cum sociis natoque penatibus et magnis dis parturient montes,
-          nascetur ridiculus mus. Donec quam felis, ultricies nec,
-          pellentesque eu, pretium quis, sem.
-            - Bullet point
-            - Bullet point
-      - role: UI Developer
-        time: 2012 - 2014
-        company: Amazon, London
-        details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          Cum sociis natoque penatibus et magnis dis parturient montes,
-          nascetur ridiculus mus. Donec quam felis, ultricies nec,
-          pellentesque eu, pretium quis, sem.
-            - Bullet point
-            - Bullet point
+      - role: Volunteer
+        time: 2018 -present
+        company: Berrien County Animal Control
+        details: At the Berrien County Animal Control, I primarily walk dogs for them, but I have helped with events such as their trunk or treat. I also have worked with animals oter than dogs in order to assist in their enrichment and eventual adoption. At Berrien County Animal Control, I am a purple volunteer so I am able to work with all animals housed there.
+         
+      
 
 certifications:
       title: Certifications
