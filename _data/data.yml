@@ -73,23 +73,13 @@ education:
 
 
 experiences:
-    title: Experiences
+    title: Work And Volunteer Experiences
     info:
-      - role: Lead Developer
-        time: 2015 - Present
-        company: Startup Hubs, San Francisco
+      - role: Ordinary Crew on the Friends Good Will.
+        time: 2021-2023
+        company: Michigan Maritime Museum, South Haven Michigan
         details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          Cum sociis natoque penatibus et magnis dis parturient montes,
-          nascetur ridiculus mus. Donec quam felis, ultricies nec,
-          pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-          enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-          error sit voluptatem accusantium doloremque laudantium, totam rem
-          aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-          architecto beatae vitae dicta sunt explicabo.
-            - Bullet point
-            - Bullet point
+          During my time at the museum, I was an ordinary crew member who got promoted to deck hand two and later deck hand one. In all of these roles, safety was a priority, however as deckhand two, I was given additional responsibility in the event of emeregency as well as being in charge of the watch. As Deck hand one, my role in emergencies was changed to different areas, and I was in charge of making sure all of the crew was following the captain's commands both in and out of emergency situations. In these roles I learned a great deal of leadership skills as well as teamwork as I worked with a crew that had to be well synchronized in order to complete tasks.
       - role: Senior Software Engineer
         time: 2014 - 2015
         company: Google, London
