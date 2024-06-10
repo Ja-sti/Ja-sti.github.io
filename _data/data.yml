@@ -44,7 +44,7 @@ sidebar:
         - item: Historic European Martial Arts
           link:
 
-        - item: Cooking
+        - item: Working out
           link:
 
 career-profile:
@@ -59,28 +59,23 @@ career-profile:
 education:
     title: Education
     info:
-      - degree: MSc in Computer Science
-        university: University of London
-        time: 2011 - 2012
+      - degree: College of Engineering Computer Science
+        university: Michigan State University
+        time: 2022-2026
         details: |
-          Describe your study here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-          sociis natoque penatibus et magnis dis parturient montes, nascetur
-          ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-          pretium quis, sem.
-            - Bullet point
-            - Bullet point
-      - degree: BSc in Applied Mathematics
-        university: Bristol University
-        time: 2007 - 2011
+          I am currently working on my Computer Science Degree from Michigan State. I am going into my junior year and have done work with HTML, Python, and 
+          C++ in my collegiate pursuits thus far.
+      - degree: High School
+        university: Watervliet Public High School
+        time: 2018-2022
         details: |
-          Describe your study here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-          sociis natoque penatibus et magnis dis parturient montes, nascetur
-          ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-          pretium quis, sem.
-            - Bullet point
-            - Bullet point
+          In high school I graduated as the fourth highest ranked individual in my class and received several cords in recognition of my scholarly pursuits.
+      - degree: Early College Programs
+        university: Andrews University and Lake Michigan College
+        time: 2018-2022
+        details: |
+          During high school, I also attended two universities. While at Andrews University, I was certified to teach the safe use of a laser engraver, gained several college credits, and earned top of my freshman computer science class. At Lake Michigan College, I earned several credits.
+
 
 experiences:
     title: Experiences
