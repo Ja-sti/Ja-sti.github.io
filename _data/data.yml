@@ -132,29 +132,20 @@ certifications:
 projects:
     title: Projects
     intro: >
-      You can list your side projects in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+      My current project have all come from my schooling, but they are still very important skills.
     assignments:
-      - title: Velocity
+      - title: Websites
         link: "#hook"
-        tagline: "A responsive website template designed to help startups promote, market and sell their products."
+        tagline: "Over my scholarly career so far, I have coded or redesigned three different websites. The site you are currently looking at is one of them. The first was the most in depth including carousels, jumbotrons, imbedded videos, and more."
 
-      - title: DevStudio
+      - title: Python projects
         link: "#"
-        tagline: "A responsive website template designed to help web developers/designers market their services."
+        tagline: "I have worked on several python projects including a mortgage calculator, a mario glitch run run helper, and some board games."
 
-      - title: Tempo
+      - title: Games
         link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
+        tagline: "I have coded one game in my time, and it was a 2D platformer shooter."
 
-      - title: Atom
-        link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
-
-      - title: Delta
-        link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
 
 oss:
     title: OSS Contributions
