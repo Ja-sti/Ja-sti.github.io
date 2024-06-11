@@ -15,7 +15,7 @@ sidebar:
     # Sidebar links
     email: jakostib@gmail.com
     phone: 269-519-2747
-    timezone: Detroit/New York Timezone
+    timezone: America/Cancun Timezone
     citizenship: United States
     linkedin: Jakob Stibal
     github: Ja-sti
@@ -49,7 +49,7 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-          Summarise your career here lorem ipsum dolor sit amet, consectetuer
+      Summarise your career here lorem ipsum dolor sit amet, consectetuer
       adipiscing elit. You can [download this free resume/CV template here]().
       Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
       penatibus et magnis dis parturient montes, nascetur ridiculus mus.
@@ -77,19 +77,45 @@ education:
 
 
 experiences:
-    title: Work And Volunteer Experiences
+    title: Experiences
     info:
-      - role: Ordinary Crew on the Friends Good Will.
-        time: 2021-2023
-        company: Michigan Maritime Museum, South Haven Michigan
+      - role: Lead Developer
+        time: 2015 - Present
+        company: Startup Hubs, San Francisco
         details: |
-          During my time at the museum, I was an ordinary crew member who got promoted to deck hand two and later deck hand one. In all of these roles, safety was a priority, however as deckhand two, I was given additional responsibility in the event of emeregency as well as being in charge of the watch. As Deck hand one, my role in emergencies was changed to different areas, and I was in charge of making sure all of the crew was following the captain's commands both in and out of emergency situations. In these roles I learned a great deal of leadership skills as well as teamwork as I worked with a crew that had to be well synchronized in order to complete tasks.
-      - role: Volunteer
-        time: 2018 -present
-        company: Berrien County Animal Control
-        details: At the Berrien County Animal Control, I primarily walk dogs for them, but I have helped with events such as their trunk or treat. I also have worked with animals oter than dogs in order to assist in their enrichment and eventual adoption. At Berrien County Animal Control, I am a purple volunteer so I am able to work with all animals housed there.
-         
-      
+          Describe your role here lorem ipsum dolor sit amet, consectetuer
+          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
+          Cum sociis natoque penatibus et magnis dis parturient montes,
+          nascetur ridiculus mus. Donec quam felis, ultricies nec,
+          pellentesque eu, pretium quis, sem. Nulla consequat massa quis
+          enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
+          error sit voluptatem accusantium doloremque laudantium, totam rem
+          aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
+          architecto beatae vitae dicta sunt explicabo.
+            - Bullet point
+            - Bullet point
+      - role: Senior Software Engineer
+        time: 2014 - 2015
+        company: Google, London
+        details: |
+          Describe your role here lorem ipsum dolor sit amet, consectetuer
+          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
+          Cum sociis natoque penatibus et magnis dis parturient montes,
+          nascetur ridiculus mus. Donec quam felis, ultricies nec,
+          pellentesque eu, pretium quis, sem.
+            - Bullet point
+            - Bullet point
+      - role: UI Developer
+        time: 2012 - 2014
+        company: Amazon, London
+        details: |
+          Describe your role here lorem ipsum dolor sit amet, consectetuer
+          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
+          Cum sociis natoque penatibus et magnis dis parturient montes,
+          nascetur ridiculus mus. Donec quam felis, ultricies nec,
+          pellentesque eu, pretium quis, sem.
+            - Bullet point
+            - Bullet point
 
 certifications:
       title: Certifications
@@ -178,21 +204,49 @@ oss:
         link: "#"
         tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
 
+publications:
+    title: Publications
+    intro: |
+      You can list your publications in this section. Lorem ipsum dolor sit
+      amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
+      bibendum fringilla a eu lectus.
+    papers:
+      - title: The Art of Computer Programming
+        link: "#"
+        authors: Donald E. Knuth
+        conference: Addison-Wesley, 1968
 
+      - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
+        link: "#"
+        authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
+        conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
+
+      - title: A syntax directed compiler for Algol 60
+        link: "#"
+        authors: Edgar T. Irons
+        conference: "Comm. ACM 4 (1961), 51–55"
 
 skills:
     title: Skills &amp; Proficiency
 
     toolset:
-      - name: Python 
-        level: 80%
+      - name: Python & Django
+        level: 98%
 
-      - name: HTML & CSS
-        level: 70%
+      - name: Javascript & jQuery
+        level: 98%
 
-      - name: Microsoft/Google suits of office products
-        level: 78%
+      - name: Angular
+        level: 98%
 
+      - name: HTML5 & CSS
+        level: 95%
+
+      - name: Ruby on Rails
+        level: 85%
+
+      - name: Sketch & Photoshop
+        level: 60%
 
 footer: >
     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
