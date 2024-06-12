@@ -100,23 +100,15 @@ certifications:
           credentialname: Andrews
           details: |
             This award was given to me for being the best in my freshman computer science course, where we learned html, as well as going beyond the normal learning requirements and getting cerified on other equipment available in the lab.
-        - name: Git learning
-          start: 2019
+        - name: Laser Engraver Certified Teacher at Andrews University Math and Science Center
+          start: 2020
           end:
-          organization: Microsoft
-          credentialid: 111-222
-          credentialurl: www.github.com
-          credentialname: Github
+          organization: Andrews University Math and Science Center
+          credentialid: 
+          credentialurl: 
+          credentialname: Andrews
           details: |
-            Older certification. Lorem ipsum dolor sit amet, consectetur
-            adipiscing elit.
-            Nullam eget orci purus. Nullam ultrices neque nibh.
-            Aenean fermentum, felis vulputate suscipit accumsan,
-            sem enim bibendum augue, sed convallis arcu lacus at dui.
-            Pellentesque et nibh suscipit, vestibulum turpis eu, semper tortor.
-            Praesent felis nibh, eleifend id eleifend id, dictum id enim.
-            Praesent venenatis erat non augue suscipit consectetur.
-
+            This is the certification I was given by the professor as I had shown sufficient proficiency with the LAser Engraver to be allowed to teach the underclassmen how to use it, and certify them to use the laser lab alone and without additional supervision.
 projects:
     title: Projects
     intro: >
