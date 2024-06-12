@@ -100,7 +100,7 @@ certifications:
           credentialname: Andrews
           details: |
             This award was given to me for being the best in my freshman computer science course, where we learned html, as well as going beyond the normal learning requirements and getting cerified on other equipment available in the lab.
-        - name: Laser Engraver Certified Teacher at Andrews University Math and Science Center
+        - name: Laser Engraver Certified Teacher
           start: 2020
           end:
           organization: Andrews University Math and Science Center
@@ -108,7 +108,7 @@ certifications:
           credentialurl: 
           credentialname: Andrews
           details: |
-            This is the certification I was given by the professor as I had shown sufficient proficiency with the LAser Engraver to be allowed to teach the underclassmen how to use it, and certify them to use the laser lab alone and without additional supervision.
+            This is the certification I was given by the professor as I had shown sufficient proficiency with the Laser Engraver to be allowed to teach the underclassmen how to use it, and certify them to use the laser lab alone and without additional supervision.
 projects:
     title: Projects
     intro: >
