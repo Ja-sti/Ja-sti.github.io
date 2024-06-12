@@ -1,3 +1,4 @@
+This Readme file is from the original template, giving credit to original authors of the template
 <a href="https://jekyll-themes.com">
 <img src="https://img.shields.io/badge/featured%20on-JT-red.svg" height="20" alt="Jekyll Themes Shield" >
 </a>
