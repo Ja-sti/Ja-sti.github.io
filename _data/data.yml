@@ -139,34 +139,7 @@ skills:
         level: 78%
 
 
-oss:
-    title: Personal Life
-    intro: >
-      In my personal life, I have three dogs and three cats. I enjoy metal work, HEMA, reading, and working out. My current favorite series is "The Dresden Files" and my favorite book from it is "Proven Guilty"
-    contributions:
-     - title: Sebastian
-        link: "#"
-        tagline: "My Great Pyrenese, Sebastian"
-       
-      - title: Phineas
-        link: "#"
-        tagline: "My Beagle German Shepard mix, Phineas"
-        
-       - title: Winston
-        link: "#"
-        tagline: "My terrier mix, Winston"
-       
-        - title: Decker
-        link: "#"
-        tagline: "One of my cats, Decker"
-        
-        - title: Fred
-        link: "#"
-        tagline: "One of my cats, Fred"
-        
-        - title: Little Rock
-        link: "#"
-        tagline: "One of my cats, Little Rock"
+
        
 
 
