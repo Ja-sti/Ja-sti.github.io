@@ -144,26 +144,30 @@ oss:
     intro: >
       In my personal life, I have three dogs and three cats. I enjoy metal work, HEMA, reading, and working out. My current favorite series is "The Dresden Files" and my favorite book from it is "Proven Guilty"
     contributions:
+     - title: Sebastian
+        link: "#"
+        tagline: "My Great Pyrenese, Sebastian"
+       
       - title: Phineas
         link: "#"
         tagline: "My Beagle German Shepard mix, Phineas"
-        photo: <img class="Phineas" src="assets/images/Phineas.jpg" alt="A beagle mix" />
+        
        - title: Winston
         link: "#"
         tagline: "My terrier mix, Winston"
-        photo: <img class="Winston" src="assets/images/Winston.jpg" alt="A Terrier mix" />
+       
         - title: Decker
         link: "#"
         tagline: "One of my cats, Decker"
-        photo: <img class="Decker" src="assets/images/Decker.jpg" alt="cat" />
+        
         - title: Fred
         link: "#"
         tagline: "One of my cats, Fred"
-        photo: <img class="Fred" src="assets/images/Fred.jpg" alt="cat" />
+        
         - title: Little Rock
         link: "#"
         tagline: "One of my cats, Little Rock"
-        photo: <img class="Little_Rock" src="assets/images/Little_Rock.jpg" alt="cat" />
+       
 
 
 
