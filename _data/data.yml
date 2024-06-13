@@ -148,7 +148,7 @@ oss:
         link: "#"
         tagline: "My Great Pyrenese, Sebastian"
         photo: <img class="Sebastian" src="assets/images/Sebastion.jpg" alt="A Great Pyrenese" />
-       - title: Phineas
+      - title: Phineas
         link: "#"
         tagline: "My Beagle German Shepard mix, Phineas"
         photo: <img class="Phineas" src="assets/images/Phineas.jpg" alt="A beagle mix" />
